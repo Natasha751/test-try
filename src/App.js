@@ -1,14 +1,11 @@
 import React from 'react'
-import Navbar from './Navbar/Navbar'
-import Employee from './Component/Employee'
+import CompA from './Component/CompA'
 class App extends React.Component {
     render() {
         return (
             <div>
-                <Navbar />
-                <Employee />
-                <Employee />
-                <Employee />
+               
+                <CompA />
             </div>
         )
     }
