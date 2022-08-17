@@ -7,6 +7,8 @@ class App extends React.Component {
             <div>
                 <Navbar />
                 <Employee />
+                <Employee />
+                <Employee />
             </div>
         )
     }
